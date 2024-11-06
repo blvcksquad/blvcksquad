@@ -1,7 +1,7 @@
 function myfunction(){
     var x =document.getElementById("pass");
 
-    if(x.type === "password"){
+    if(x.type === "passwor"){
         x.type = "text";
     }
     else{
