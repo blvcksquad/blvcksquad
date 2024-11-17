@@ -15,7 +15,7 @@ function validate(){
 
     if(password.value.length >= 8){
         alert("Login Succesfull");
-        window.location.replace("404.html");
+        window.location.replace("https://blvcksquad.github.io/blvcksquad-1/");
         return false;
     }
     else{
